@@ -1,0 +1,32 @@
+﻿2014/01/19 23:57:02 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "d:\visual studio 2010\Projects\shooting\shooting\shooting.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Release\shooting.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>C:\kazushi\c++\c++lib\kaz_libs\C_2d_data.h(137): warning C4244: '引数' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>C:\kazushi\c++\c++lib\kaz_libs\C_2d_data.h(137): warning C4244: '引数' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>C:\kazushi\c++\c++lib\kaz_libs\C_2d_data.h(137): warning C4244: '引数' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>C:\kazushi\c++\c++lib\kaz_libs\C_2d_data.h(137): warning C4244: '引数' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>C:\kazushi\c++\c++lib\kaz_libs\C_2d_data.h(189): warning C4244: '引数' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>C:\kazushi\c++\c++lib\kaz_libs\C_2d_data.h(189): warning C4244: '引数' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>C:\kazushi\c++\c++lib\kaz_libs\C_2d_data.h(189): warning C4244: '引数' : 'float' から 'int' への変換です。データが失われる可能性があります。
+     1>d:\visual studio 2010\projects\shooting\shooting\color_def.h(16): warning C4305: '初期化中' : 'double' から 'const float' へ切り詰めます。
+     1>d:\visual studio 2010\projects\shooting\shooting\color_def.h(17): warning C4305: '初期化中' : 'double' から 'const float' へ切り詰めます。
+     1>d:\visual studio 2010\projects\shooting\shooting\Ctask.h(62): warning C4244: '初期化中' : 'double' から 'float' への変換です。データが失われる可能性があります。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\visual studio 2010\Projects\shooting\Release\shooting.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\shooting.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\visual studio 2010\Projects\shooting\Release\shooting.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\visual studio 2010\Projects\shooting\Release\shooting.lib" /MACHINE:X86 Release\main.obj
+         コード生成しています。
+         コード生成が終了しました。
+         shooting.vcxproj -> d:\visual studio 2010\Projects\shooting\Release\shooting.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"d:\visual studio 2010\Projects\shooting\Release\shooting.exe;#1" /manifest Release\shooting.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         ファイル "Release\shooting.unsuccessfulbuild" を削除しています。
+         "Release\shooting.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "d:\visual studio 2010\Projects\shooting\shooting\shooting.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:12.52
